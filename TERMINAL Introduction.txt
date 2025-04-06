@@ -1,0 +1,11 @@
+***********************************************************************
+*       Welcome to the CyberAcme Systems Inc. Mainframe Terminal!     *
+***********************************************************************
+
+[?] Need help? Type help to see available commands.
+[i] Want to check system info? Try sysinfo.
+[>] Navigate the directories using cd, ls and pwd. Use read for reading documents and exec to execute files.
+
+Commands are case-sensitive, so type carefully!
+
+Enjoy your stay in the shell!

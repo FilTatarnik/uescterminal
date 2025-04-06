@@ -1,0 +1,5 @@
+THIS IS A COMMAND EXECUTED IN THE CONSOLE WITH:
+
+exec Legislation/Security/Cybersecurity/decrypt.sh
+
+NOT A TEXT FILE IN THE SYSTEM!
